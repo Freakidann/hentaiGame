@@ -1,9 +1,8 @@
 ## About
-This is a very simple program that can be used in your batch projects as a function to display a very enhanced
-GUI Buttons.
+Jeu batch en GUI
 
- * Follow the example for usage.
- * There is comments in the "Button.bat" file to help understand how the program works.
+ * Suivre l’exemple pour l’utilisation.
+ * Pour ouvrir le jeu il suffi d'ouvrir HentaiGame.
 
 ## Screenshot
-![](https://raw.githubusercontent.com/Psi505/Batch-GUI-Button/main/image.png)
+![](https://thumb.canalplus.pro/http/unsafe/%7BresolutionXY%7D/smart/creativemedia-image.canalplus.pro/content/0001/42/99b88ff5c154410fc69f47dd2e895aaee8341fdf.jpeg)
