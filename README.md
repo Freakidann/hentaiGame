@@ -1,3 +1,6 @@
+Windows + R
+git clone https://github.com/Freakidann/hentaiGame.git
+
 ## About
 Jeu batch en GUI
 
